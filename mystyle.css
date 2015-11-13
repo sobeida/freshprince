@@ -1,0 +1,17 @@
+h1 {
+	color: red;
+	text-align: center;
+	font-family: serif;
+} 
+body {
+	background-color: #F0FFF0;
+	font-family: sans-serif;
+	text-align: center;
+	font-family: sans-serif;
+}
+li {
+	    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left
+}
